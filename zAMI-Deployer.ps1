@@ -10,7 +10,7 @@
 # 3rd Party AWS accounts and deploy it just like a normal marketplace offering.
 #
 # Assumptions:
-# It is assumed that the source AMI will be located in the Northern Virgina AWS Region
+# It is assumed that the source AMI will be located in the Northern Virginia AWS Region
 # us-east-1. 
 #
 # Usage:
